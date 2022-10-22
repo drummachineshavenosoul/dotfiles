@@ -1,4 +1,9 @@
 /*
 !.config
-## !*.config/*
+!.asdf
+!.doom.d
+!.zshrc
+!.tool-versions
 !.gitignore
+# my scripts
+!.scripts
