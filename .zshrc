@@ -10,12 +10,13 @@ fi
 export PATH="$HOME/.asdf:$PATH"
 
 export PATH="$HOME/.emacs.d/bin:$PATH"
+# alias emacs="emacsclient -c"
+
+# I didn't want to set the whole path the the homebrew defualt bin location
 export PATH="/opt/homebrew/opt/rsync:$PATH"
- # alias emacs="emacsclient -c"
 
-
-# I didn't want to set the whole path to the homebrew path, you also need to chmod the executable
-#alias rsync="/opt/homebrew/opt/rsync"
+alias vi="nvim"
+alias vim="nvim"
 
 
 neofetch
