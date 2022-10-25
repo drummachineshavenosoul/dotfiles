@@ -7,6 +7,8 @@
 !.gitignore
 # my scripts
 !.scripts
+!Projects
+Projects/*
 !Projects/.gitkeep
 !Areas/.gitkeep
 !Resources/.gitkeep
