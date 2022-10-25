@@ -10,7 +10,15 @@
 !Projects
 Projects/*
 !Projects/.gitkeep
+!Areas
+Areas/*
 !Areas/.gitkeep
+!Resources
+Resources/*
 !Resources/.gitkeep
+!Archives
+Archives/*
 !Archives/.gitkeep
+!Temp
+Temp/*
 !Temp/.gitkeep
