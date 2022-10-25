@@ -7,3 +7,8 @@
 !.gitignore
 # my scripts
 !.scripts
+!Projects/.gitkeep
+!Areas/.gitkeep
+!Resources/.gitkeep
+!Archives/.gitkeep
+!Temp/.gitkeep
