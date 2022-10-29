@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# asdf-plugin: python 3.10.8
-exec /opt/homebrew/opt/asdf/libexec/bin/asdf exec "normalizer" "$@" # asdf_allow: ' asdf '
