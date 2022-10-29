@@ -15,12 +15,14 @@ export PATH="$HOME/.emacs.d/bin:$PATH"
 # I didn't want to set the whole path the the homebrew defualt bin location
 export PATH="/opt/homebrew/opt/rsync:$PATH"
 export PATH="/opt/homebrew/opt/grep:$PATH"
+export PATH="$HOME/.scripts:$PATH"
 
 alias vi="nvim"
 alias vim="nvim"
 alias grep="ggrep"
 alias egrep="gegrep"
 alias fgrep="gfgrep"
+alias uninstall="$HOME/.scripts/uninstall.sh"
 
 
 neofetch

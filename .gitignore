@@ -1,8 +1,8 @@
 /*
 !.config
-!.asdf
 !.doom.d
 !.zshrc
+# I don't need the asdf directory as you can install all from the tool-versions file.
 !.tool-versions
 !.gitignore
 # my scripts

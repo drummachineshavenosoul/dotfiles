@@ -52,6 +52,7 @@ return require('packer').startup(function(use)
   use { 'TimUntersberger/neogit', requires = 'nvim-lua/plenary.nvim' }
  
   use 'ThePrimeagen/harpoon'
+  use 'ThePrimeagen/vim-be-good'
 
   use {
   'nvim-telescope/telescope.nvim', tag = '0.1.0',
