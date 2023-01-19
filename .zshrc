@@ -24,6 +24,8 @@ alias egrep="gegrep"
 alias fgrep="gfgrep"
 alias uninstall="$HOME/.scripts/uninstall.sh"
 
+# Add Visual Studio Code (code)
+export PATH="/Applications/Visual Studio Code.app/Contents/Resources/app/bin:$PATH"
 
 neofetch
 
