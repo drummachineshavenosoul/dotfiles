@@ -25,7 +25,11 @@ alias fgrep="gfgrep"
 alias uninstall="$HOME/.scripts/uninstall.sh"
 
 # Add Visual Studio Code (code)
-export PATH="/Applications/Visual Studio Code.app/Contents/Resources/app/bin:$PATH"
+# export PATH="/Applications/Visual Studio Code.app/Contents/Resources/app/bin:$PATH"
+
+# Add path to VSCodium and realias to code
+export PATH="/Applications/VSCodium.app/Contents/Resources/app/bin:$PATH"
+alias code="codium"
 
 neofetch
 
