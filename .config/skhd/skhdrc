@@ -1,3 +1,5 @@
+#!/usr/bin/env sh
+
 ## hyper = ctrl + alt + cmd + shift
 # you can actually just use the word 'hyper' unlike semihyper.
 ## semihyper = ctrl + alt + cmd
@@ -24,9 +26,11 @@
 ctrl + alt + cmd - 0x35 : [[ $(yabai -m config layout) = "bsp" ]] && \
     (yabai -m config layout float; \
     yabai -m config window_border off; \
+    yabai -m config window_shadow on; \
     yabai -m config focus_follows_mouse off) || \
     (yabai -m config layout bsp; \
     yabai -m config window_border on; \
+    yabai -m config window_shadow off; \
     yabai -m config focus_follows_mouse autoraise)
 
 # cycle all windows on space backwards by coordinate
