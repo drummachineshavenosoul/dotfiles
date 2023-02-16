@@ -31,7 +31,7 @@
        })
 
        hl("LineNr", {
-           fg = "#5eacd3"
+           fg = "#4A809B"
        })
 
        hl("netrwDir", {
