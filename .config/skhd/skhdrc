@@ -10,6 +10,9 @@
 # hyper - j : yabai -m window --focus south
 # hyper - l : yabai -m window --focus east
 
+# you can't use the asdf version of python for this as skhd uses $SHELL -c which is bash, instead this works
+alt + cmd - c : /Library/Developer/CommandLineTools/usr/bin/python3 /Users/sambirch/.scripts/AddFilePathWithBackslashesToClipboard.py
+
 # move window to space 'x' - not working
 ctrl + alt + cmd + shift - 1 : yabai -m window --space 1
 ctrl + alt + cmd + shift - 2 : yabai -m window --space 2
