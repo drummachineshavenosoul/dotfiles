@@ -74,16 +74,16 @@ setup_space 4 workchat
 setup_space 5 dev
 setup_space 6 design
 setup_space 7 audio
-setup_space 8 video
-setup_space 9 finder
+# setup_space 8 video
+# setup_space 9 finder
 
 # move some apps automatically to specific spaces
 # I have decided to try only having Music set to a specific space as I want to trial moving windows around spaces more.
-yabai -m rule --add app="^Music$" space=9
+#yabai -m rule --add app="^Music$" space=9
 #yabai -m rule --add app="^Google Chrome$" space=^2
 #yabai -m rule --add app="^Google Chrome Dev$" space=^2
 #yabai -m rule --add app="^Firefox$" space=2
-yabai -m rule --add app="^Notion$" space=8
+#yabai -m rule --add app="^Notion$" space=8
 #yabai -m rule --add app="^Spotify$" space=3
 #yabai -m rule --add app="Photoshop" space=6
 #yabai -m rule --add app="Illustrator" space=6
