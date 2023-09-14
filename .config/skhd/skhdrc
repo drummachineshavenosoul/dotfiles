@@ -4,14 +4,20 @@
 # you can actually just use the word 'hyper' unlike semihyper.
 ## semihyper = ctrl + alt + cmd
 
+ctrl + alt + cmd - return : open -a "kitty"
+# Below is an example of opening a new window where above switches to the already open app.
+#ctrl + alt + cmd - return : /Applications/Alacritty.app/Contents/MacOS/Alacritty
+
+# you can't use the asdf version of python for this as skhd uses $SHELL -c which is bash, instead this works
+alt + cmd - c : /Library/Developer/CommandLineTools/usr/bin/python3 ~/.scripts/AddFilePathWithBackslashesToClipboard.py
+
+###########
+
 # focus window - normal way
 # hyper - h : yabai -m window --focus west
 # hyper - k : yabai -m window --focus north
 # hyper - j : yabai -m window --focus south
 # hyper - l : yabai -m window --focus east
-
-# you can't use the asdf version of python for this as skhd uses $SHELL -c which is bash, instead this works
-alt + cmd - c : /Library/Developer/CommandLineTools/usr/bin/python3 /Users/sambirch/.scripts/AddFilePathWithBackslashesToClipboard.py
 
 # move window to space 'x' - not working
 ctrl + alt + cmd + shift - 1 : yabai -m window --space 1
@@ -46,7 +52,6 @@ ctrl + alt + cmd - j : yabai -m window --focus "$( \
         | jq -re "sort_by(.frame) | reverse | map(.id) | nth(1 + index($( \
             yabai -m query --windows --window | jq '.id'))) // first")"
 
-ctrl + alt + cmd - return : /Applications/Alacritty.app/Contents/MacOS/alacritty
 ctrl + alt + cmd - 0x1B : [[ $(yabai -m config layout) = "bsp" ]] && \
     yabai -m config layout float || \
     yabai -m config layout bsp
