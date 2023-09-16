@@ -50,7 +50,12 @@ return require('packer').startup(function(use)
 --   })
 
   use { 'TimUntersberger/neogit', requires = 'nvim-lua/plenary.nvim' }
- 
+  use {
+      'stevearc/oil.nvim',
+      config = function() require('oil').setup({
+          default_file_explorer = false,
+      }) end
+  }
   use 'ThePrimeagen/harpoon'
   use 'ThePrimeagen/vim-be-good'
 
@@ -59,4 +64,32 @@ return require('packer').startup(function(use)
 -- or                            , branch = '0.1.x',
   requires = { {'nvim-lua/plenary.nvim'} }
 }
+
+use {
+    "nvim-neorg/neorg",
+    config = function()
+        require('neorg').setup {
+            load = {
+                ["core.defaults"] = {}, -- Loads default behaviour
+                ["core.concealer"] = {}, -- Adds pretty icons to your documents
+                ["core.dirman"] = { -- Manages Neorg workspaces
+                    config = {
+                        workspaces = {
+                            notes = "~/notes",
+                        },
+                        default_workspace = "notes"
+                    },
+                },
+            },
+        }
+    end,
+    run = ":Neorg sync-parsers",
+    requires = "nvim-lua/plenary.nvim",
+}
+
+    use {
+        'nvim-treesitter/nvim-treesitter',
+        run = ':TSUpdate'
+    }
+
 end)
