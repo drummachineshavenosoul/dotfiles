@@ -1,0 +1,43 @@
+=============== Sep 29, 2023 (BST) ===============
+18:35:49.225937 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:35:49.239522 db@open opening
+18:35:49.240153 version@stat F·[] S·0B[] Sc·[]
+18:35:49.249888 db@janitor F·2 G·0
+18:35:49.250079 db@open done T·10.541542ms
+18:35:50.607933 memdb@flush N·46 S·1KiB
+18:35:50.614587 memdb@flush created L0@3 N·46 S·597B "\ndb..ion,v46":"\nla..ime,v19"
+18:35:50.614627 version@stat F·[1] S·597B[597B] Sc·[0.25]
+18:35:50.619535 memdb@flush committed F·1 T·11.483958ms
+18:35:50.619610 journal@remove removed @1
+18:35:50.619622 table@compaction range L-1 "":""
+18:35:50.619629 table@compaction L0·1 -> L1·0 S·597B Q·46
+18:35:50.623924 table@build created L1@4 N·4 S·207B "\ndb..ion,v46":"\nla..ime,v19"
+18:35:50.623942 version@stat F·[0 1] S·207B[0B 207B] Sc·[0.00 0.00]
+18:35:50.628286 table@compaction committed F~ S-390B Ke·0 D·42 T·8.650041ms
+18:35:50.628403 table@remove removed @3
+20:48:25.402348 db@close closing
+20:48:25.404039 db@close done T·1.690542ms
+=============== Sep 29, 2023 (BST) ===============
+20:48:26.439217 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:48:26.440183 version@stat F·[0 1] S·207B[0B 207B] Sc·[0.00 0.00]
+20:48:26.440217 db@open opening
+20:48:26.440295 journal@recovery F·1
+20:48:26.441210 journal@recovery recovering @2
+20:48:26.448399 memdb@flush created L0@5 N·661 S·23KiB "\x00\x00\x00..ore,d104":"\x11\xee\x94..2\x19C,v59"
+20:48:26.448717 version@stat F·[1 1] S·23KiB[23KiB 207B] Sc·[0.25 0.00]
+20:48:26.474900 db@janitor F·4 G·0
+20:48:26.474923 db@open done T·34.6965ms
+20:50:58.994625 db@close closing
+20:50:58.995132 db@close done T·496.75µs
+=============== Sep 30, 2023 (BST) ===============
+12:44:37.408138 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:44:37.408590 version@stat F·[1 1] S·23KiB[23KiB 207B] Sc·[0.25 0.00]
+12:44:37.408611 db@open opening
+12:44:37.408657 journal@recovery F·1
+12:44:37.409223 journal@recovery recovering @6
+12:44:37.416417 memdb@flush created L0@8 N·1 S·149B "\x04uz..can,v709":"\x04uz..can,v709"
+12:44:37.416725 version@stat F·[2 1] S·23KiB[23KiB 207B] Sc·[0.50 0.00]
+12:44:37.439546 db@janitor F·5 G·0
+12:44:37.439572 db@open done T·30.954375ms
+13:00:52.042389 db@close closing
+13:00:52.043893 db@close done T·1.505875ms
