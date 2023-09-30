@@ -1,0 +1,45 @@
+[start] 2023/09/30 17:01:47 INFO: syncthing v1.24.0 "Fermium Flea" (go1.21.0 darwin-arm64) brew@Ventura-arm64.local 2023-08-23 10:28:48 UTC [noupgrade]
+[L6EU5] 2023/09/30 17:01:47 INFO: My ID: L6EU5MN-XTZSRJW-42IX27J-PMDCZQB-JNYMLFM-56UBT5F-DNMSEMA-IUGRQQE
+[L6EU5] 2023/09/30 17:01:48 INFO: Single thread SHA256 performance is 2322 MB/s using crypto/sha256 (2308 MB/s using minio/sha256-simd).
+[L6EU5] 2023/09/30 17:01:48 INFO: Hashing performance is 1253.31 MB/s
+[L6EU5] 2023/09/30 17:01:48 INFO: Overall send rate is unlimited, receive rate is unlimited
+[L6EU5] 2023/09/30 17:01:48 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[L6EU5] 2023/09/30 17:01:48 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[L6EU5] 2023/09/30 17:01:48 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[L6EU5] 2023/09/30 17:01:48 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[L6EU5] 2023/09/30 17:01:48 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[L6EU5] 2023/09/30 17:01:48 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[L6EU5] 2023/09/30 17:01:48 INFO: Ready to synchronize "Obsidian Vault" (uznpx-xn9en) (sendreceive)
+[L6EU5] 2023/09/30 17:01:48 INFO: TCP listener ([::]:53112) starting
+[L6EU5] 2023/09/30 17:01:48 INFO: QUIC listener ([::]:53112) starting
+[L6EU5] 2023/09/30 17:01:48 INFO: GUI and API listening on 127.0.0.1:8385
+[L6EU5] 2023/09/30 17:01:48 INFO: Access the GUI via the following URL: http://127.0.0.1:8385/
+[L6EU5] 2023/09/30 17:01:48 INFO: My name is "iCloud"
+[L6EU5] 2023/09/30 17:01:48 INFO: Device 52KF3XO-6VM24FA-5EX5MAL-7FHNBS7-LSKPZGM-36VQD3G-QKXB2K6-RSDFBQF is "MacBook Pro" at [dynamic]
+[L6EU5] 2023/09/30 17:01:48 INFO: Completed initial scan of sendreceive folder "Obsidian Vault" (uznpx-xn9en)
+[L6EU5] 2023/09/30 17:01:48 INFO: Established secure connection to 52KF3XO-6VM24FA-5EX5MAL-7FHNBS7-LSKPZGM-36VQD3G-QKXB2K6-RSDFBQF at 192.168.1.186:53112-192.168.1.186:52663/tcp-client/TLS1.3-TLS_AES_128_GCM_SHA256/LAN-P10
+[L6EU5] 2023/09/30 17:01:48 INFO: Device 52KF3XO-6VM24FA-5EX5MAL-7FHNBS7-LSKPZGM-36VQD3G-QKXB2K6-RSDFBQF client is "syncthing v1.24.0" named "MacBook Pro" at 192.168.1.186:53112-192.168.1.186:52663/tcp-client/TLS1.3-TLS_AES_128_GCM_SHA256/LAN-P10
+[L6EU5] 2023/09/30 17:02:03 INFO: New NAT port mapping: external TCP address 109.149.131.203:27646 to local address [::]:53112.
+[L6EU5] 2023/09/30 17:02:03 INFO: Detected 2 NAT services
+[L6EU5] 2023/09/30 17:02:07 INFO: quic://0.0.0.0:53112 detected NAT type: Port restricted NAT
+[L6EU5] 2023/09/30 17:02:07 INFO: quic://0.0.0.0:53112 resolved external address quic://109.149.131.203:53112 (via stun.syncthing.net:3478)
+[L6EU5] 2023/09/30 17:02:24 INFO: Joined relay relay://163.172.181.231:22067
+[L6EU5] 2023/09/30 17:19:44 INFO: Joined relay relay://51.159.67.129:22067
+[L6EU5] 2023/09/30 17:39:17 INFO: Joined relay relay://81.187.90.2:22067
+[L6EU5] 2023/09/30 18:52:14 INFO: Joined relay relay://139.162.166.18:22067
+[L6EU5] 2023/09/30 19:21:51 INFO: Joined relay relay://46.38.237.104:22067
+[L6EU5] 2023/09/30 19:39:32 INFO: Joined relay relay://49.12.93.194:22067
+[L6EU5] 2023/09/30 19:56:13 INFO: Connection to 52KF3XO-6VM24FA-5EX5MAL-7FHNBS7-LSKPZGM-36VQD3G-QKXB2K6-RSDFBQF at 192.168.1.186:53112-192.168.1.186:52663/tcp-client/TLS1.3-TLS_AES_128_GCM_SHA256/LAN-P10 closed: read timeout
+[L6EU5] 2023/09/30 19:56:21 INFO: Joined relay relay://88.98.192.139:22067
+[L6EU5] 2023/09/30 20:13:12 INFO: Joined relay relay://141.144.197.27:22067
+[L6EU5] 2023/09/30 20:13:18 INFO: Established secure connection to 52KF3XO-6VM24FA-5EX5MAL-7FHNBS7-LSKPZGM-36VQD3G-QKXB2K6-RSDFBQF at [2a00:23c7:82b5:3d01:90a9:3a78:8993:8fef]:53112-[2a00:23c7:82b5:3d01:90a9:3a78:8993:8fef]:52663/tcp-client/TLS1.3-TLS_AES_128_GCM_SHA256/LAN-P10
+[L6EU5] 2023/09/30 20:13:18 INFO: Device 52KF3XO-6VM24FA-5EX5MAL-7FHNBS7-LSKPZGM-36VQD3G-QKXB2K6-RSDFBQF client is "syncthing v1.24.0" named "MacBook Pro" at [2a00:23c7:82b5:3d01:90a9:3a78:8993:8fef]:53112-[2a00:23c7:82b5:3d01:90a9:3a78:8993:8fef]:52663/tcp-client/TLS1.3-TLS_AES_128_GCM_SHA256/LAN-P10
+[L6EU5] 2023/09/30 20:13:18 INFO: Connection from 52KF3XO-6VM24FA-5EX5MAL-7FHNBS7-LSKPZGM-36VQD3G-QKXB2K6-RSDFBQF at 192.168.1.186:52663 (tcp-server) rejected: already connected to this device
+[L6EU5] 2023/09/30 20:13:18 INFO: Connection from 52KF3XO-6VM24FA-5EX5MAL-7FHNBS7-LSKPZGM-36VQD3G-QKXB2K6-RSDFBQF at [2a00:23c7:82b5:3d01:90a9:3a78:8993:8fef]:55716 (tcp-server) rejected: already connected to this device
+[L6EU5] 2023/09/30 20:16:16 INFO: Joined relay relay://194.59.206.11:22067
+[L6EU5] 2023/09/30 20:24:10 INFO: Joined relay relay://79.139.59.141:22067
+[L6EU5] 2023/09/30 21:51:03 INFO: Joined relay relay://5.45.97.191:22067
+[L6EU5] 2023/09/30 22:07:30 INFO: Joined relay relay://195.219.226.6:22067
+[L6EU5] 2023/09/30 22:24:55 INFO: Joined relay relay://212.227.183.93:443
+[L6EU5] 2023/09/30 22:28:16 INFO: Joined relay relay://78.46.41.194:22067
+[L6EU5] 2023/09/30 22:31:25 INFO: Joined relay relay://212.120.44.24:443

@@ -1,5 +1,6 @@
 /*
 !.config
+!.local/share/nvim
 !.doom.d
 !.zshrc
 !.zprofile
@@ -20,7 +21,4 @@
 !04 Archives
 04 Archives/*
 !04 Archives/.gitkeep
-!Temp
-Temp/*
-!Temp/.gitkeep
 !.newsboat

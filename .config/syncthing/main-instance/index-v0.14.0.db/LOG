@@ -137,3 +137,13 @@
 13:14:04.346736 table@remove removed @4
 13:14:52.367446 db@close closing
 13:14:52.367853 db@close done T·402µs
+=============== Sep 30, 2023 (BST) ===============
+16:57:43.412222 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:57:43.413001 version@stat F·[0 1] S·230KiB[0B 230KiB] Sc·[0.00 0.00]
+16:57:43.413022 db@open opening
+16:57:43.413063 journal@recovery F·1
+16:57:43.413518 journal@recovery recovering @25
+16:57:43.419037 memdb@flush created L0@28 N·2 S·170B "\x047s..can,v2824":"\x04uz..can,v2823"
+16:57:43.419356 version@stat F·[1 1] S·230KiB[170B 230KiB] Sc·[0.25 0.00]
+16:57:43.441123 db@janitor F·4 G·0
+16:57:43.441147 db@open done T·28.119708ms

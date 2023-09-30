@@ -29,3 +29,504 @@
 2023/09/30 13:54:30 WARNING: Failure on home directory: mkdir /.config: read-only file system
 2023/09/30 13:54:40 WARNING: Failure on home directory: mkdir /.config: read-only file system
 2023/09/30 13:54:50 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:55:00 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:55:10 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:55:20 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:55:30 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:55:40 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:55:50 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:56:04 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:56:14 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:56:24 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:56:34 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:56:44 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:56:54 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:57:04 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:57:14 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:57:24 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:57:34 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:57:44 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:57:54 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:58:04 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:58:14 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:58:25 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:58:35 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:58:45 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:58:55 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:59:05 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:59:15 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:59:25 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:59:35 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:59:45 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 13:59:55 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:00:05 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:00:15 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:00:25 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:00:35 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:00:45 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:00:55 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:01:05 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:01:15 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:01:25 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:01:35 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:01:45 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:01:56 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:02:06 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:02:16 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:02:26 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:02:36 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:02:46 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:02:56 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:03:06 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:03:16 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:03:26 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:03:36 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:03:46 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:03:56 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:04:06 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:04:16 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:04:26 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:04:36 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:04:46 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:04:56 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:05:06 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:05:16 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:05:26 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:05:36 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:05:47 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:05:57 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:06:07 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:06:17 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:06:27 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:06:37 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:06:47 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:06:57 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:07:07 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:07:17 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:07:27 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:07:37 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:07:47 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:07:57 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:08:07 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:08:17 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:08:27 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:08:37 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:08:47 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:08:57 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:09:07 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:09:17 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:09:28 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:09:38 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:09:48 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:09:58 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:10:08 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:10:18 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:10:28 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:10:38 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:10:48 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:10:58 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:11:08 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:11:18 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:11:28 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:11:38 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:11:48 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:11:58 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:12:08 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:12:18 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:12:28 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:12:38 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:12:48 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:12:58 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:13:09 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:13:19 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:13:29 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:13:39 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:13:49 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:13:59 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:14:09 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:14:19 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:14:29 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:14:39 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:14:49 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:14:59 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:15:09 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:15:19 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:15:29 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:15:39 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:15:49 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:15:59 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:16:09 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:16:19 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:16:29 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:16:39 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:16:49 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:17:00 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:17:10 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:17:20 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:17:30 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:17:40 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:17:50 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:18:00 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:18:10 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:18:20 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:18:30 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:18:40 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:18:50 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:19:00 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:19:10 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:19:20 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:19:30 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:19:40 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:19:50 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:20:00 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:20:10 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:20:20 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:20:30 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:20:41 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:20:51 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:21:01 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:21:11 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:21:21 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:21:31 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:21:41 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:21:51 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:22:01 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:22:11 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:22:21 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:22:31 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:22:41 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:22:51 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:23:01 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:23:11 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:23:21 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:23:31 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:23:41 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:23:51 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:24:01 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:24:12 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:24:22 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:24:32 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:24:42 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:24:52 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:25:02 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:25:12 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:25:22 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:25:32 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:25:42 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:25:52 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:26:02 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:26:12 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:26:22 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:26:32 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:26:42 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:26:52 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:27:02 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:27:12 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:27:22 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:27:32 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:27:42 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:27:52 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:28:02 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:28:13 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:28:23 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:28:33 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:28:43 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:28:53 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:29:03 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:29:13 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:29:23 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:29:33 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:29:43 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:29:53 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:30:03 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:30:13 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:30:23 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:30:33 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:30:43 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:30:53 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:31:03 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:31:13 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:31:23 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:31:33 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:31:43 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:31:53 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:32:03 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:32:14 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:32:24 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:32:34 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:32:44 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:32:54 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:33:04 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:33:14 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:33:24 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:33:34 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:33:44 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:33:54 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:34:04 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:34:14 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:34:24 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:34:34 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:34:44 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:34:54 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:35:04 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:35:14 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:35:24 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:35:34 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:35:44 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:35:54 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:36:05 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:36:15 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:36:25 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:36:35 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:36:45 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:36:55 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:37:05 WARNING: Failure on home directory: mkdir /.config: read-only file system
+$SHELL
+$SHELL
+2023/09/30 14:42:00 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:42:10 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:42:20 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:42:31 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:42:41 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:42:51 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:43:01 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:43:11 WARNING: Failure on home directory: mkdir /.config: read-only file system
+2023/09/30 14:43:21 WARNING: Failure on home directory: mkdir /.config: read-only file system
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+$SHELL
+[start] 2023/09/30 16:57:43 INFO: syncthing v1.24.0 "Fermium Flea" (go1.21.0 darwin-arm64) brew@Ventura-arm64.local 2023-08-23 10:28:48 UTC [noupgrade]
+[52KF3] 2023/09/30 16:57:43 INFO: My ID: 52KF3XO-6VM24FA-5EX5MAL-7FHNBS7-LSKPZGM-36VQD3G-QKXB2K6-RSDFBQF
+[52KF3] 2023/09/30 16:57:44 INFO: Single thread SHA256 performance is 2318 MB/s using crypto/sha256 (2309 MB/s using minio/sha256-simd).
+[52KF3] 2023/09/30 16:57:44 INFO: Hashing performance is 1253.44 MB/s
+[52KF3] 2023/09/30 16:57:44 INFO: Overall send rate is unlimited, receive rate is unlimited
+[52KF3] 2023/09/30 16:57:44 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[52KF3] 2023/09/30 16:57:44 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[52KF3] 2023/09/30 16:57:44 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[52KF3] 2023/09/30 16:57:44 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[52KF3] 2023/09/30 16:57:44 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[52KF3] 2023/09/30 16:57:44 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[52KF3] 2023/09/30 16:57:44 INFO: TCP listener ([::]:52663) starting
+[52KF3] 2023/09/30 16:57:44 INFO: QUIC listener ([::]:52663) starting
+[52KF3] 2023/09/30 16:57:44 INFO: Ready to synchronize "eBooks" (7svcr-bndt5) (sendreceive)
+[52KF3] 2023/09/30 16:57:44 INFO: GUI and API listening on 127.0.0.1:8384
+[52KF3] 2023/09/30 16:57:44 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[52KF3] 2023/09/30 16:57:44 INFO: My name is "MacBook Pro"
+[52KF3] 2023/09/30 16:57:44 INFO: Device A4Y7QWW-YQECJJX-HX743BL-23DTKAN-ARWIKEY-XCM5ZFP-CNZJ7GO-VY3IWQB is "Boox Poke" at [dynamic]
+[52KF3] 2023/09/30 16:57:44 INFO: Device L6EU5MN-XTZSRJW-42IX27J-PMDCZQB-JNYMLFM-56UBT5F-DNMSEMA-IUGRQQE is "iCloud" at [dynamic]
+[52KF3] 2023/09/30 16:57:44 INFO: Ready to synchronize "Obsidian Vault" (uznpx-xn9en) (sendreceive)
+[52KF3] 2023/09/30 16:57:44 INFO: Completed initial scan of sendreceive folder "Obsidian Vault" (uznpx-xn9en)
+[52KF3] 2023/09/30 16:57:44 INFO: Completed initial scan of sendreceive folder "eBooks" (7svcr-bndt5)
+[52KF3] 2023/09/30 16:57:59 INFO: New NAT port mapping: external TCP address 109.149.131.203:44791 to local address [::]:52663.
+[52KF3] 2023/09/30 16:57:59 INFO: Detected 2 NAT services
+[52KF3] 2023/09/30 16:58:03 INFO: quic://0.0.0.0:52663 detected NAT type: Port restricted NAT
+[52KF3] 2023/09/30 16:58:03 INFO: quic://0.0.0.0:52663 resolved external address quic://109.149.131.203:52663 (via stun.syncthing.net:3478)
+[52KF3] 2023/09/30 16:58:18 INFO: Joined relay relay://185.35.202.206:22067
+[52KF3] 2023/09/30 17:01:48 INFO: Established secure connection to L6EU5MN-XTZSRJW-42IX27J-PMDCZQB-JNYMLFM-56UBT5F-DNMSEMA-IUGRQQE at 192.168.1.186:52663-192.168.1.186:53112/tcp-server/TLS1.3-TLS_AES_128_GCM_SHA256/LAN-P10
+[52KF3] 2023/09/30 17:01:48 INFO: Device L6EU5MN-XTZSRJW-42IX27J-PMDCZQB-JNYMLFM-56UBT5F-DNMSEMA-IUGRQQE client is "syncthing v1.24.0" named "iCloud" at 192.168.1.186:52663-192.168.1.186:53112/tcp-server/TLS1.3-TLS_AES_128_GCM_SHA256/LAN-P10
+[52KF3] 2023/09/30 17:01:48 INFO: Connection from L6EU5MN-XTZSRJW-42IX27J-PMDCZQB-JNYMLFM-56UBT5F-DNMSEMA-IUGRQQE at [2a00:23c7:82b5:3d01:90a9:3a78:8993:8fef]:53112 (tcp-server) rejected: already connected to this device
+[52KF3] 2023/09/30 17:19:23 INFO: Joined relay relay://83.99.147.75:22067
+[52KF3] 2023/09/30 17:40:10 INFO: Joined relay relay://85.214.100.39:22067
+[52KF3] 2023/09/30 18:39:30 INFO: Joined relay relay://51.15.241.123:22067
+[52KF3] 2023/09/30 18:51:40 INFO: Joined relay relay://93.90.195.251:22067
+[52KF3] 2023/09/30 19:22:00 INFO: Joined relay relay://195.219.227.72:443
+[52KF3] 2023/09/30 19:39:26 INFO: Joined relay relay://79.137.194.94:22067
+[52KF3] 2023/09/30 19:56:13 INFO: Connection to L6EU5MN-XTZSRJW-42IX27J-PMDCZQB-JNYMLFM-56UBT5F-DNMSEMA-IUGRQQE at 192.168.1.186:52663-192.168.1.186:53112/tcp-server/TLS1.3-TLS_AES_128_GCM_SHA256/LAN-P10 closed: read timeout
+[52KF3] 2023/09/30 19:56:15 INFO: Joined relay relay://129.13.64.138:443
+[52KF3] 2023/09/30 20:13:06 INFO: Joined relay relay://94.130.70.114:22067
+[52KF3] 2023/09/30 20:13:18 INFO: Established secure connection to L6EU5MN-XTZSRJW-42IX27J-PMDCZQB-JNYMLFM-56UBT5F-DNMSEMA-IUGRQQE at [2a00:23c7:82b5:3d01:90a9:3a78:8993:8fef]:52663-[2a00:23c7:82b5:3d01:90a9:3a78:8993:8fef]:53112/tcp-server/TLS1.3-TLS_AES_128_GCM_SHA256/LAN-P10
+[52KF3] 2023/09/30 20:13:18 INFO: Device L6EU5MN-XTZSRJW-42IX27J-PMDCZQB-JNYMLFM-56UBT5F-DNMSEMA-IUGRQQE client is "syncthing v1.24.0" named "iCloud" at [2a00:23c7:82b5:3d01:90a9:3a78:8993:8fef]:52663-[2a00:23c7:82b5:3d01:90a9:3a78:8993:8fef]:53112/tcp-server/TLS1.3-TLS_AES_128_GCM_SHA256/LAN-P10
+[52KF3] 2023/09/30 20:13:18 INFO: Connection from L6EU5MN-XTZSRJW-42IX27J-PMDCZQB-JNYMLFM-56UBT5F-DNMSEMA-IUGRQQE at 192.168.1.186:53112 (tcp-server) rejected: already connected to this device
+[52KF3] 2023/09/30 20:13:18 INFO: Connection from L6EU5MN-XTZSRJW-42IX27J-PMDCZQB-JNYMLFM-56UBT5F-DNMSEMA-IUGRQQE at 192.168.1.186:53112 (tcp-client) rejected: already connected to this device
+[52KF3] 2023/09/30 20:16:10 INFO: Joined relay relay://91.223.28.100:22067
+[52KF3] 2023/09/30 20:24:05 INFO: Joined relay relay://45.14.233.128:22067
+[52KF3] 2023/09/30 21:50:28 INFO: Joined relay relay://129.13.64.141:443
+[52KF3] 2023/09/30 22:24:50 INFO: Joined relay relay://167.86.78.166:22067
+[52KF3] 2023/09/30 22:28:11 INFO: Joined relay relay://202.61.238.93:22067
+[52KF3] 2023/09/30 22:31:34 INFO: Joined relay relay://145.220.6.38:443
