@@ -1,0 +1,5 @@
+checked_for_update_at: 2023-09-14T13:51:17.080141+01:00
+latest_release:
+    version: v2.34.0
+    url: https://github.com/cli/cli/releases/tag/v2.34.0
+    publishedat: 2023-09-06T11:17:26Z

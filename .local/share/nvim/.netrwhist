@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/'
+let g:netrw_dirhist_1='/Users'
+let g:netrw_dirhist_0='/Users/love'
+let g:netrw_dirhist_9='/Users'
+let g:netrw_dirhist_8='/Users/love'
+let g:netrw_dirhist_7='/Users/love/.local/state/nvim'
+let g:netrw_dirhist_6='/Users/love/.local/state'
+let g:netrw_dirhist_5='/Users/love/.local'
+let g:netrw_dirhist_4='/Users/love/.local/share'
+let g:netrw_dirhist_3='/Users/love/.local/share/nvim'

@@ -1,6 +1,5 @@
 /*
 !.config
-!.local/share/nvim/*
 !.doom.d
 !.zshrc
 !.zprofile
