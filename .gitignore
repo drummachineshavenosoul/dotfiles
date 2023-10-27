@@ -8,16 +8,19 @@
 !.gitignore
 # my scripts
 !.scripts
-!01 Projects
-01 Projects/*
-!01 Projects/.gitkeep
-!02 Areas
-02 Areas/*
-!02 Areas/.gitkeep
-!03 Resources
-03 Resources/*
-!03 Resources/.gitkeep
-!04 Archives
-04 Archives/*
-!04 Archives/.gitkeep
 !.newsboat
+.config/gh
+
+## No longer needed
+#!01 Projects
+#01 Projects/*
+#!01 Projects/.gitkeep
+#!02 Areas
+#02 Areas/*
+#!02 Areas/.gitkeep
+#!03 Resources
+#03 Resources/*
+#!03 Resources/.gitkeep
+#!04 Archives
+#04 Archives/*
+#!04 Archives/.gitkeep
