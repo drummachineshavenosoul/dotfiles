@@ -4,9 +4,9 @@
 # you can actually just use the word 'hyper' unlike semihyper.
 ## semihyper = ctrl + alt + cmd
 
-ctrl + alt + cmd - return : open -a "kitty"
+#ctrl + alt + cmd - return : open -a "kitty"
 # Below is an example of opening a new window where above switches to the already open app.
-#ctrl + alt + cmd - return : /Applications/Alacritty.app/Contents/MacOS/Alacritty
+ctrl + alt + cmd - return : /Applications/Alacritty.app/Contents/MacOS/Alacritty
 
 # you can't use the asdf version of python for this as skhd uses $SHELL -c which is bash, instead this works
 alt + cmd - c : /Library/Developer/CommandLineTools/usr/bin/python3 ~/.scripts/AddFilePathWithBackslashesToClipboard.py
